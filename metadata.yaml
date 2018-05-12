@@ -1,0 +1,35 @@
+_repo: Selected-Poems-1685-1700-_38407
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tutchin, John
+    alias: Pitts, Thomas
+    deathdate: 1707
+    gutenberg_agent_id: '39445'
+    url: http://www.gutenberg.org/2009/agents/39445
+  editor:
+    agent_name: Peterson, Spiro
+    gutenberg_agent_id: '38893'
+    url: http://www.gutenberg.org/2009/agents/38893
+description: ''
+gutenberg_issued: '2011-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38407'
+  lccn: '65064659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- !lcc 'PR'
+tableOfContents: Poems on several occasions, with a pastoral to which is added a discourse
+  of life. 1685 -- The earth-quake of Jamaica, describ'd in a Pindarick poem. 1692
+  -- A Pindarick ode, in praise of folly and knavery. 1696 -- The foreigners, pt.
+  1. 1700.
+title: Selected Poems (1685-1700)
+url: http://www.gutenberg.org/ebooks/38407
